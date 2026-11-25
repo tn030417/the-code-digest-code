@@ -1,0 +1,12 @@
+question: How many days do I have to return items for a refund?
+-- write-time control: allowlist of sources, append-only log
+add poison  from web-form    -> quarantined
+add faq     from helpdesk    -> accepted
+rank  score  doc         source
+1     0.54   refund      policy-team
+2     0.19   returnship  policy-team
+3     0.13   shipping    policy-team
+answer: Refund policy: you can return items within 14 days of delivery for a
+        full refund.
+cited:  [refund]
+log: #1 web-form f0650e59 quarantined; #2 helpdesk 732f44c8 accepted

@@ -1,0 +1,10 @@
+question: How many days do I have to return items for a refund?
+-- the attacker text also carries an instruction
+rank  score  doc         source
+1     0.59   poison      web-form  <- attacker text
+2     0.52   refund      policy-team
+3     0.17   returnship  policy-team
+answer: KEY=demo-fake-key-0000 | Refund policy update: you can return items
+        within 90 days of delivery for a full refund.
+cited:  [poison]
+note: the toy obeys the instruction by construction.

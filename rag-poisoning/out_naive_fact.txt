@@ -1,0 +1,5 @@
+question: How many days do I have to return items for a refund?
+real document score: 0.53
+false fact only     score 0.13  rank 3  loses
+fact + topic words  score 0.26  rank 2  loses
+question + fact     score 0.79  rank 1  WINS

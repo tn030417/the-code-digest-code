@@ -1,0 +1,8 @@
+question: How many days do I have to return items for a refund?
+rank  score  doc         source
+1     0.53   refund      policy-team
+2     0.18   returnship  policy-team
+3     0.13   shipping    policy-team
+answer: Refund policy: you can return items within 14 days of delivery for a
+        full refund.
+cited:  [refund]

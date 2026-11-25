@@ -1,0 +1,11 @@
+question: How many days do I have to return items for a refund?
+-- same poisoned index, but sources are labeled and filtered
+rank  score  doc         source
+1     0.79   poison      web-form  <- attacker text
+2     0.52   refund      policy-team
+3     0.17   returnship  policy-team
+filter: ignored unverified source: poison
+answer: Refund policy: you can return items within 14 days of delivery for a
+        full refund.
+cited:  [refund]
+note: trust is a label kept apart from rank. The text still ranks.
