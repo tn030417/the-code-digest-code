@@ -1,0 +1,4 @@
+assumed: a soft defense stops 90% of attempts (not a measurement)
+100 servers, 1 attempt each : 6 leaked
+100 servers, 5 attempts each: 40 leaked
+policy on the tool call      : 0 leaked

@@ -1,0 +1,5 @@
+UI shows   : add: Adds two numbers.  [arguments hidden]
+model reads: Adds two numbers.
+user: add 2 and 3
+  [calc server] got add(a=2, b=3)
+reply to user: 2 + 3 = 5
