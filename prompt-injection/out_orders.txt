@@ -1,0 +1,4 @@
+user: Refund order 17?
+> lookup_order(17)
+Observation: order 17 delivered, value 20
+answer: not eligible, the order was delivered

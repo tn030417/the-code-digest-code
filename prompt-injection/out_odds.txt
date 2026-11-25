@@ -1,0 +1,4 @@
+assumed: soft defense stops 90% of attempts (not a measurement)
+100 files, 1 attempt each : 6 leaked
+100 files, 5 attempts each: 40 leaked
+email tool removed        : 0 leaked
