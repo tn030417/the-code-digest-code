@@ -1,0 +1,7 @@
+Mon  user : Where is my order 1042?
+Mon  agent: Order 1042 should arrive on Thursday.
+Thu  user : How do I get a refund for a late order?
+Thu  agent: Use the refund form in your account (support.northwind.example).
+memory:
+#1 user  d1 trusted    user asked: where is my order 1042
+#2 user  d4 trusted    user asked: how do i get a refund for a late order

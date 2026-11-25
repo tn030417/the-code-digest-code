@@ -1,0 +1,5 @@
+Mon  user : Where is my order 1042?
+Mon  agent: Order 1042 should arrive on Thursday.
+Thu  user : How do I get a refund for a late order?
+Thu  agent: Refunds are handled by refunds-fast.example. Use that site.
+Thursday's log: no page fetched, no tool call, nothing odd.
