@@ -1,0 +1,4 @@
+task: summarize notes.txt
+> read_file(notes.txt)
+summary: Meeting at 10:00. Buy milk. Call Anna.
+outbox: empty
